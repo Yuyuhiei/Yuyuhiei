@@ -1,7 +1,7 @@
-![MasterHead](https://pbs.twimg.com/media/E5ay0emWQAMfrZa.jpg:large)
+![MasterHead](https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif?1685790800)
 <h1 align="center">Hi 👋, I'm Lauvigne G. Lumeda</h1>
 <h3 align="center">A 19 year-old Computer Science student at Pamantasan ng Lungsod ng Maynila</h3>
-<img align="right" alt="Yu" width="400" src="https://media.tenor.com/PSVip9YMNhoAAAAC/yu-narukami-narukami-yu.gif">
+<img align="right" alt="Yu" width="400" src="https://i.pinimg.com/originals/e5/1b/ec/e51bec51908df8ef254089dc8ac21913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauvignelumeda&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
 
