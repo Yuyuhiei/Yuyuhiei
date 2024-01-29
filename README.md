@@ -1,7 +1,7 @@
-[![MasterHead](https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/422894566_122108692850192030_8625358704857245220_n.png?_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_ohc=KCbb18qJ0EUAX9EsfyO&_nc_ht=scontent.fcrk4-1.fna&oh=00_AfBwa1YpGiJjqiknguM0Xxe4PjBRltKnj8m53bz6QcD2BQ&oe=65BBE230)](https://www.facebook.com/lauvigne.lumeda/)
-<h1 align="center">Hi 🍕, I'm Yuyuhiei</h1>
+[![MasterHead](https://lh3.googleusercontent.com/pw/ABLVV86edKsGGDOaE7LqskdF4eF1-y31CRiFpo3rqEKrHsB-6J-zXyogcWCs6PMFDr2UBKgrU3FMMBbOjSAywMGg6e95I1xRcr8iJYj1qvPF71ba2BaQC-_U43sRW5Hpbt7JiTTq6QD-yJ4_cGcbc4Bjs7S3z4AhQpRXzTloD40DJtZqQsVH9n9r6bwpOPj2FAWRB5XpHRm14ti_5_hTkBcP_9pdzApGi36hg9EhmJ78SlnUOhNsbziqmNBGVpKeuAcWv25x0Q2y0HnQlhuhMlBFursSxAbiuhZXc2kf8jQ7t0VGOk7NgElthLaKROYwvbikfUNMsT2xPuKRPhlde_6sG1kLlEXECcjANZZNPDAL6nBU2VN0y6WhBLBMHOcOxnkQRRWAmMKtcTo7RPpBhfALhD0alKT4ZuC5EUEBkhmiT1lGZAkEELSlo6lvopXqPVLJbiG8qhzKkSI7ImWxdTIzx6rNGBxJ3IOne_HSGgZp0PeBGg0W_9slYOfAT_HteQDukDZeYDOSQcqV8UJ-DGk_aWcGgWg1zGX6OxsIy__d11RvpF6dJo7ZTTSjyCzh55-ANbV3WlFSYtWTG3tFR1OKEfp5VJ-9K27PZFR6H9R4n6wwqhdXaDg0FK5n6EsIghfWcmRa5laV2GL88VUYh7Hc3delLVdRGA-qW4ANNYNTJZ-ZPCMxxpK7ncKOrTi07aOOjSQjUxvb5MdIRrlnd7Fdvu-uSCObeefr-rmfCKaMRHG8PVcUKzbwOEi4b2b16HhqqFCTepFJt5gR3IoM6VdkYJGUqeDCgDu1LuRyvWEtvqMb5OXHpub5L5s2UDfKhuTC09FmsGYqSWZ_bsr_dhlhb71hyHsQtL_0rgRVtxRkv2lCTXgUvO8ZoPk4CckTdsWG1n91IoI4hHSp0jpYT8LcGNniIQHZGtthIbf4MtCDF5w8SradzZuuStJWdmKN2IMa-1rWfMtSHrXDW-1LJMORx6833chEWzYBcfGmGxZzwttU3vG-BARRu5hul_m3YuOdVwVKt-VEKuoYEXRLHOEjKprAkEz5beKiqPnxpemL6_PJHOqjzF-ZaEPDv9esZVH-Dru8qWqb=w1920-h804-s-no-gm?authuser=0)](https://www.facebook.com/lauvigne.lumeda/)
+<h1 align="center">Hi, I'm Yuyuhiei</h1>
 <h3 align="center">A 19 year-old Computer Science student at Pamantasan ng Lungsod ng Maynila</h3>
-<img align="right" alt="Coding" width="350" src="https://pbs.twimg.com/media/EnyipKAXMAA8096.png">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauvignelumeda&label=Profile%20views&color=0e75b6&style=flat" alt="lauvignelumeda" /> </p>
