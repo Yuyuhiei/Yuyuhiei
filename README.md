@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/AXPQufr.png)](https://www.facebook.com/lauvigne.lumeda/)
+[![MasterHead](https://i.imgur.com/fdlJO3u.png)](https://www.facebook.com/lauvigne.lumeda/)
 <h1 align="center">Hi 🍕, I'm Lauvigne G. Lumeda</h1>
 <h3 align="center">A 19 year-old Computer Science student at Pamantasan ng Lungsod ng Maynila</h3>
 
