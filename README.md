@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/fdlJO3u.png)](https://www.facebook.com/lauvigne.lumeda/)
 <h1 align="center">Hi 🍕, I'm Yuyuhiei!</h1>
 <h3 align="center">An Aspiring Developer from the University of City of Manila</h3>
 
